@@ -7,7 +7,7 @@
 
 1. 根据歌单ID先[导出歌单文本](https://yyrcd.com/2018/11/14/n2s-zh/)，保存于`lists.txt`；
 
-2.  运行 `python downloadmp3.py`开始下载；
+2.  运行 `python3  downloadmp3.py`，开始下载；
 
 ## 说明
 
